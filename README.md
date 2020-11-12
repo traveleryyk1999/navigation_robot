@@ -2,7 +2,7 @@
 
 - ## environment
   - used [Gym](https://gym.openai.com/) as an environment to test algorithms.
-  - The basic environment ![environment](./model/121.png = 100x100)
+  - The basic environment ![environment-w20](./model/121.png)
   
 - ## algorithm
   - used algorithms of RL(Reinforcement Learning), including q-learning, sarsa
